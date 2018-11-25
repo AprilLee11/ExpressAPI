@@ -10,7 +10,6 @@ module.exports = function(req, res, next) {
 
   try {
     let payload = jwt.verify(token, "miki-jwtKey");
-    console.log("payload", payload);
     req.user = payload;
     next();
   } catch (ex) {
