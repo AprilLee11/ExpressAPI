@@ -4,27 +4,9 @@
 
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Here, Restful API is implemented with Express and introduced for examples.
 
-## Example
+## API Documentation
 
-## **Create account**
-
-By providing user information, user can create his/her account.
-
-- **URL**
-
-  https://drugsapp.herokuapp.com/user
-
-- **Method:**
-
-  Post
-
-- **URL Params**
-
-  No
-
-- **Data Params**
-
-  email and password
+[click](https://documenter.getpostman.com/view/438036/RzfaqrMv)
 
 ## Technology Used
 
