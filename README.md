@@ -6,6 +6,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 
 ## Deployed to
 https://drugpatient.herokuapp.com
+(It provides only API, there is not view.)
 
 ## API Documentation
 
@@ -13,10 +14,10 @@ https://drugpatient.herokuapp.com
 
 ## Technology Used
 
-- NodeJS
-- Express Framework
+- Node.js
+- Express
 - MongoDB
 
-## References
+## Technical report
 
 [click](https://medium.com/@mikyung.lee11/how-to-authenticate-and-authorize-user-in-express-244bb2b29d4a)
