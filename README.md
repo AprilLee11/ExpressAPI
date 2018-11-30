@@ -6,7 +6,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 
 ## Deployed to
 https://drugpatient.herokuapp.com
-(It provides only API, there is not view.)
+(It provides only API, there is not view)
 
 ## API Documentation
 
