@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 var PatientSchema = new Schema({
   age: { type: Number },
   gender: { type: String },
-  reactions: { type: text },
+  reactions: { type: String },
   drugs: { type: [Schema.Types.ObjectId] },
   receivedate: { type: Date }
 });

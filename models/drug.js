@@ -3,8 +3,8 @@ const Schema = mongoose.Schema;
 
 var DrugSchema = new Schema({
   name: { type: String },
-  indications: { type: text },
-  activesubstances: { type: text }
+  indications: { type: String },
+  activesubstances: { type: String }
 });
 
 module.exports = mongoose.model("Drug", DrugSchema);
